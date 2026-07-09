@@ -1,9 +1,10 @@
 # Hi 👋, I'm Felipe Santino
  
 🚀 **Front-End Developer | UI & Business-Driven**
+
 🇧🇷 Natal, Brazil
  
-I build **modern web applications**, **client websites**, and **AI-assisted tools** with **React and Tailwind**.
+I build **modern web applications**, **websites**, and **AI-assisted tools** with **React and Tailwind**.
  
 Coming from **3 years running my own business**, I focus on **real-world results, clean interfaces, and solving actual problems** — not just writing code.
  
