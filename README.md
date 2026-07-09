@@ -15,7 +15,7 @@ Coming from **3 years running my own business**, I focus on **real-world results
 - **Frontend:** React · Tailwind CSS · JavaScript · HTML · CSS · GSAP · Framer Motion
 - **E-commerce:** Shopify
 - **Automation & AI:** n8n · Python · AI-assisted workflows · Prompt engineering
-- **Tools:** Git · Figma · Vite
+- **Tools:** Git · Figma · Vite <br>
 
 **Currently learning:** TypeScript · React fundamentals in depth
  
